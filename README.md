@@ -3,12 +3,14 @@
 
 PSD layout using JQuery.
 
-### [Demo on Heroku]() :point_left:
-
 - JQuery
 - HTML
 - CSS
 - Adaptive Web Design
 - Photoshop
+
+### Getting Started
+ - Download ZIP
+ - Open index.html
 
 ![layoutPSD](layoutPSD.min.png)
