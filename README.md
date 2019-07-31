@@ -10,7 +10,7 @@ PSD layout using JQuery.
 - Photoshop
 
 ### Getting Started
- - Download ZIP
- - Open index.html
+ - download ZIP
+ - open index.html
 
 ![layoutPSD](layoutPSD.min.png)
